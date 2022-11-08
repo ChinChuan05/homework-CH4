@@ -15,6 +15,5 @@ int main(void){
     printf("%7d%13d\n", i, n[i]);
   }
 
-  system("pause");
   return 0;
 }
